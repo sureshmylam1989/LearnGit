@@ -1,3 +1,5 @@
 This is my first file
 
 My first update
+
+This is my merge check
